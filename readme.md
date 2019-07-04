@@ -1,4 +1,4 @@
-Repository Init Content
+ISS MR Workshop
 =======================
 
-Your project description here.
+Github repository for ISS Machine Reasoning Workshop
